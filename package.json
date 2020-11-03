@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/vennelaganti-subramanyam/Coursify/issues"
   },
-  "homepage": "https://github.com/vennelaganti-subramanyam/Coursify#readme"
+  "homepage": "https://github.com/vennelaganti-subramanyam/Coursify#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
